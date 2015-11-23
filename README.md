@@ -1,7 +1,7 @@
 # PythonScripts
 
 CleanScript.py: 
-To be used as: myCleanScript.py <TweetFile> <StopWordsFile>
+To be used as: myCleanScript.py \<TweetFile\> \<StopWordsFile\>
 
 where:
 TweetFile is the JSON data file that is collected from Twitter feeds. 
